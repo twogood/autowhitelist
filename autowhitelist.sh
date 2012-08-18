@@ -35,6 +35,7 @@ run '\.facebook\.com\[' "Facebook"
 run '\.pixmania\.com\[' "Pixmania"
 run '\.yahoo\.com\[' "Yahoo"
 run '\.obsmtp\.com\[' "Postini"
+run '\.twitter\.com\[' "Twitter"
 
 after=`count`
 
