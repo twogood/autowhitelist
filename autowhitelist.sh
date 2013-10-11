@@ -36,6 +36,13 @@ run '\.pixmania\.com\[' "Pixmania"
 run '\.yahoo\.com\[' "Yahoo"
 run '\.obsmtp\.com\[' "Postini"
 run '\.twitter\.com\[' "Twitter"
+run '\.anpdm\.com\[' "Apsis"
+run '\.smtp-out\.amazonses\.com\[' "Amazon"
+run '\.mailgun\.info\[' "mailgun"
+run '\.mailgun\.us\[' "mailgun"
+run '\.messagelabs\.com\[' "messagelabs"
+run '\.sendgrid\.net\[' "sendgrid"
+run '\.email-od.com\[' 'SocketLabs Email On-Demand '
 
 after=`count`
 
